@@ -1,5 +1,5 @@
 # change below sets to new ones, values are in Hz
-new_freq_steps = [2500, 5000, 6250, 10000, 12500, 25000, 8330]
+new_freq_steps = [1350, 5000, 6250, 10000, 12500, 25000, 8330]
 
 
 
